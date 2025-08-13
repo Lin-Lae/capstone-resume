@@ -1,0 +1,15 @@
+body {
+    background-color: #0d1428;
+    color: #F3E2D4;
+    text-align: center;
+}
+h1, h2, h3, h4 {
+    text-align: center;
+    color: rgb(127, 79, 19);
+}
+ul {
+    text-align: left;
+}
+footer {
+    font-size: 12px;
+}
